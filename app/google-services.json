@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011332474107",
+    "project_id": "shippo-bff7c",
+    "storage_bucket": "shippo-bff7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011332474107:android:f77956378062f7b2433c5e",
+        "android_client_info": {
+          "package_name": "com.example.shippo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011332474107-i44i8kc53miokr5154eusjremfgoaa17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGDQnWrbnfJkp18fHrKBBWoMOoDxeeFyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011332474107-i44i8kc53miokr5154eusjremfgoaa17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
